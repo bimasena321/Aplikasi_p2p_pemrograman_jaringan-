@@ -1,6 +1,6 @@
 import socket
 import threading
-
+#Collaboration with Max 
 def handle_client(client_socket, client_address):
     while True:
         try:
